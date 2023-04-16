@@ -22,7 +22,7 @@ Display the respective outputs.
 End the program.
 
 ## Program:
-### Developed By   : Shpbika P
+### Developed By   : Shobika P
 ### Register Number: 212221230096
 </br>
 
