@@ -167,7 +167,7 @@ i) Using Laplacian Kernal
 ![out](img%201.jpeg)
 
 ii) Using Laplacian Operator
-![out](img%207.jpeg)>
+![out](img%207.jpeg)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
